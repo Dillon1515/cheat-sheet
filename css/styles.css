@@ -2,3 +2,22 @@ html {
     background-color: #808080;
     color: whitesmoke;
 }
+
+header h1 {
+    text-align: center;
+}
+
+header nav {
+    text-align: left;
+}
+
+table {
+    border: 1px solid;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+thead {
+    background-color: lightblue;
+    color: black;
+}
