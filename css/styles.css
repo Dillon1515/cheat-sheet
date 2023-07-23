@@ -7,14 +7,25 @@ header h1 {
     text-align: center;
 }
 
-header nav {
-    text-align: left;
+header ul {
+    text-align: center;
+    list-style-type: none;
+    background-color: white;
+}
+
+header li {
+    font-size: 30px;
+    display: inline-block;
+    border: solid;
+    margin: 5px;
+    color: red;
 }
 
 table {
     border: 1px solid;
     vertical-align: middle;
     font-size: 20px;
+    margin: auto;
 }
 
 thead {
